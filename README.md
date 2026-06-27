@@ -1,2 +1,11 @@
-# Decodelabs-Internship-
-This repository contains project done during the course of internship with Decodelabs
+# DecodeLabs Internship
+
+This repository contains my completed projects for the DecodeLabs Data Analytics Internship.
+
+## Projects
+
+- 📁 Project 1 – Data Cleaning
+- 📁 Project 2 – Exploratory Data Analysis (EDA)
+- 📁 Project 3 – SQL Data Analysis
+
+Each project folder contains its own README, project files, and documentation.
