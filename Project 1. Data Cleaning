@@ -1,0 +1,24 @@
+# Project 1: Data Cleaning
+
+## Objective
+The goal of this project was to clean a raw sales dataset by handling missing values, checking for duplicates, and validating data accuracy to prepare it for analysis.
+
+## Tools Used
+- Excel
+
+## Tasks Performed
+- Standardized the **Date** column to **YYYY-MMM-DD** format.
+- Checked for duplicate records and confirmed there were **no duplicate entries**.
+- Identified and filled **309 missing values** in the **CouponCode** column with **"No Coupon"**.
+- Recalculated the **TotalPrice** column to verify that it matched **Quantity × UnitPrice**.
+- Reviewed the dataset to ensure consistency and accuracy.
+
+## Outcome
+The dataset was successfully cleaned and prepared for Exploratory Data Analysis (EDA) and SQL analysis.
+
+## Files Included
+- Raw Dataset
+- Cleaned Dataset
+
+
+
