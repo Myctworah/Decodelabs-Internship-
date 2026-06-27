@@ -1,0 +1,31 @@
+# Project 3: SQL Data Analysis
+
+## Objective
+The goal of this project was to use SQL queries to extract meaningful insights from the cleaned sales dataset.
+
+## Tools Used
+- PostgreSQL
+- pgAdmin 4
+
+## SQL Concepts Applied
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+
+## Analysis Performed
+- Retrieved records using SELECT statements.
+- Filtered data using WHERE conditions.
+- Sorted records using ORDER BY.
+- Grouped data using GROUP BY.
+- Calculated total orders, total revenue, and average order value.
+- Analyzed sales by product, payment method, referral source, and order status.
+
+## Outcome
+The SQL analysis demonstrated how relational databases can be used to answer business questions and generate actionable insights from sales data.
+
+## Files Included
+- SQL Script (.sql)
