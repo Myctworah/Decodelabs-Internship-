@@ -1,0 +1,28 @@
+# Project 2: Exploratory Data Analysis (EDA)
+
+## Objective
+The goal of this project was to analyze the cleaned sales dataset to identify patterns, trends, distributions, and key business insights.
+
+## Tools Used
+- Excel
+
+## Analysis Performed
+- Calculated descriptive statistics:
+  - Count
+  - Mean
+  - Median
+  - Minimum
+  - Maximum
+- Created Pivot Tables to summarize the data.
+- Developed charts to visualize sales trends and distributions.
+- Identified trends and potential outliers.
+- Documented key observations from the analysis.
+
+## Outcome
+The analysis provided valuable insights into sales performance, customer behavior, and product trends.
+
+## Files Included
+- EDA Workbook
+- Pivot Tables
+- Charts
+- Summary Report
