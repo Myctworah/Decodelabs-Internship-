@@ -8,4 +8,4 @@ This repository contains my completed projects for the DecodeLabs Data Analytics
 - 📁 Project 2 – Exploratory Data Analysis (EDA)
 - 📁 Project 3 – SQL Data Analysis
 
-Each project folder contains its own README, project files, and documentation.
+Each project folder contains its own README. Project files and documentations are added in the repository for each projects.
